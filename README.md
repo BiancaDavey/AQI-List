@@ -1,6 +1,6 @@
-# air-quality-list
+# AQI-List
 
-Air Quality List is a program for providing a list of the average AQI readings for multiple locations, sorted by average AQI from highest to lowest.
+AQI List is a program for reading multiple AQI readings from a file and returning a list of the average AQI readings by location, sorted by average AQI from highest to lowest.
 
 ## Features
 
