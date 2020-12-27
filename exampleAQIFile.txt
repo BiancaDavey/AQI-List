@@ -1,3 +1,6 @@
-Berlin,21.25
+Berlin,21
+Berlin,20.5
 Sydney,15.1
+Sydney,18.02
 Tokyo,39.68
+Tokyo,37.2
