@@ -1,6 +1,6 @@
 # AQI-List
 
-AQI List is a program for reading multiple AQI readings from a file and returning a list of the average AQI readings by location, sorted by average AQI from highest to lowest.
+AQI List is a program for reading AQI readings for multiple locations from a txt file and returning a list of the average AQI readings for each location in descending order.
 
 ## Features
 
