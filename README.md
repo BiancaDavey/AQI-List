@@ -17,27 +17,23 @@ A text editor is required to provide the file containing the AQI data.
 ## Usage
 
 1. Create a file with a .txt extension.
-2. Add the AQI readings to the file in the format of one location name, comma, AQI reading per line.
+2. Add the AQI readings to the file in the format of one location name, comma, and AQI reading per line.
 3. Open the program script using the command `nano air_quality_list.py`.
-4. Specify the name of the .txt file as the `FILENAME` variable in the program script.
+4. Specify the name of the .txt file to match `exampleAQIList.txt` file as in the program script, or customise it.
 5. Run the script for the program using the command `python3 air_quality_list.py`.
 
 ## Usage Example
 
 ```
-nano example_AQI_readings.txt
+nano exampleAQIFile.txt
 ```
-![AQI readings in text file.](text.png)
+[![example-AQIFiletxt.png](https://i.postimg.cc/jj3LmzqG/example-AQIFiletxt.png)](https://postimg.cc/WDrNJqkn)
 
-```
-nano air_quality_list.py
-```
-![Specifying filename.](filename.png)
 
 ```
 python3 air_quality_list.py
 ```
-![Final output of program.](output.png)
+[![AQI-List-Usage-Example.png](https://i.postimg.cc/nzsCJCCM/AQI-List-Usage-Example.png)](https://postimg.cc/5YVx595M)
 
 
 ## Author
