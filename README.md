@@ -40,4 +40,4 @@ python3 air_quality_list.py
 
 Bianca Davey
 
-bdavey2@myune.edu.au
+biancamdavey91@gmail.com
